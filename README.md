@@ -1,16 +1,23 @@
-<h1 align="center">Hi 👋, I'm Rajwansh Bhati</h1>
-<h3 align="center">🚀 Full-Stack Developer | ⚙️ DevOps Enthusiast | 🔐 Backend & Cloud Passionate</h3>
+<h2 align="center">Hey there, I'm <span style="color:#F7DF1E">Rajwansh Bhati 🐍</span></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajwansh-bhati-448984265">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rajwanshbhati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Backend+%2F+Cloud+Lover;JavaScript+%7C+Go+%7C+Node.js+Fan;Always+building+cool+things!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Passionate about building scalable web apps, microservices, and writing clean backend code. <br/>
+  I love turning ideas into working products, and I'm always learning something new every day. <br/><br/>
+  <strong>Let’s play a bit while you scroll 👇</strong>
 </p>
 
 ---
+
+### 🐍 Watch your contribution graph grow!
+
+<p align="center">
+  <img alt="Snake animation" src="https://github.com/RajwanshBhati/RajwanshBhati/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 💻 Tech Stack:
 
